@@ -6,19 +6,20 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
-url:              http://getpoole.com
+title:            Rajkumar R
+tagline:          'Its A Wonderful Life'
+#description:      'A curious mind trying to overcome its timidity.'
+description:      'An inquisitive mind, dwelling in a eubstance, searching a course in the erratic life which is limited by its own timidity'
+#url:              http://lanyon.getpoole.com
 
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
+  name:           'Rajkumar Ramasamy'
+#url:            https://twitter.com/mdo
 
-paginate:         1
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          0.0.1
 
-github:
-  repo:           https://github.com/poole/poole
+#github:
+#repo:           https://github.com/rrajkumar/rrajkumar.github.io
